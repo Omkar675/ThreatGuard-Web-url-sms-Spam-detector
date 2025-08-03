@@ -1,0 +1,270 @@
+[
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing"
+  },
+  {
+    "time": "2025-08-01 09:49:28",
+    "type": "URL",
+    "input": "https://www.google.com",
+    "result": "benign",
+    "confidence": 0.5
+  },
+  {
+    "time": "2025-08-01 09:49:28",
+    "type": "URL",
+    "input": "https://www.google.com",
+    "result": "benign",
+    "confidence": 0.5
+  },
+  {
+    "time": "2025-08-01 09:49:29",
+    "type": "URL",
+    "input": "https://www.google.com",
+    "result": "benign",
+    "confidence": 0.5
+  },
+  {
+    "time": "2025-08-01 09:49:44",
+    "type": "Message",
+    "input": "Enter email and win lotteery",
+    "result": "phishing",
+    "confidence": 0.51
+  },
+  {
+    "time": "2025-08-01 09:49:51",
+    "type": "File",
+    "input": "threat file.txt",
+    "result": "benign",
+    "confidence": 0.6
+  },
+  {
+    "time": "2025-08-01 09:52:12",
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing",
+    "confidence": 0.37
+  },
+  {
+    "time": "2025-08-01 09:52:16",
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing",
+    "confidence": 0.37
+  },
+  {
+    "time": "2025-08-01 10:08:57",
+    "type": "URL",
+    "input": "http://htttps://google.com",
+    "result": "benign",
+    "confidence": 0.55,
+    "risk": "Low",
+    "color": "#4CAF50",
+    "details": {
+      "features": {
+        "has_ip": 0,
+        "long_length": 0,
+        "shortening_service": 0,
+        "has_at_symbol": 0,
+        "double_slash_redirect": 1,
+        "has_hyphen": 0,
+        "sub_domains": 1,
+        "https": 0,
+        "domain_age": 0
+      },
+      "title": "",
+      "final_verdict": "benign"
+    }
+  },
+  {
+    "time": "2025-08-01 10:09:02",
+    "type": "URL",
+    "input": "http://htttps://google.com",
+    "result": "benign",
+    "confidence": 0.55,
+    "risk": "Low",
+    "color": "#4CAF50",
+    "details": {
+      "features": {
+        "has_ip": 0,
+        "long_length": 0,
+        "shortening_service": 0,
+        "has_at_symbol": 0,
+        "double_slash_redirect": 1,
+        "has_hyphen": 0,
+        "sub_domains": 1,
+        "https": 0,
+        "domain_age": 0
+      },
+      "title": "",
+      "final_verdict": "benign"
+    }
+  },
+  {
+    "time": "2025-08-01 10:09:31",
+    "type": "Message",
+    "input": "Congratulations You won a car enter email to get it",
+    "result": "phishing",
+    "confidence": 0.9,
+    "risk": "High",
+    "color": "#F44336",
+    "details": {
+      "length": 51,
+      "keywords": [
+        "won"
+      ]
+    }
+  },
+  {
+    "time": "2025-08-01 10:09:32",
+    "type": "Message",
+    "input": "Congratulations You won a car enter email to get it",
+    "result": "phishing",
+    "confidence": 0.9,
+    "risk": "High",
+    "color": "#F44336",
+    "details": {
+      "length": 51,
+      "keywords": [
+        "won"
+      ]
+    }
+  },
+  {
+    "time": "2025-08-01 10:09:46",
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing",
+    "confidence": 0.66,
+    "risk": "High",
+    "color": "#F44336",
+    "details": {
+      "features": {
+        "has_ip": 0,
+        "long_length": 0,
+        "shortening_service": 0,
+        "has_at_symbol": 0,
+        "double_slash_redirect": 0,
+        "has_hyphen": 1,
+        "sub_domains": 2,
+        "https": 0,
+        "domain_age": 0
+      },
+      "title": "",
+      "final_verdict": "phishing"
+    }
+  },
+  {
+    "time": "2025-08-01 10:18:38",
+    "type": "URL",
+    "input": "http://paypal-login-user-security.com/verify",
+    "result": "phishing",
+    "confidence": 0.75,
+    "risk": "High",
+    "color": "#F44336",
+    "details": {
+      "features": {
+        "has_ip": 0,
+        "long_length": 0,
+        "shortening_service": 0,
+        "has_at_symbol": 0,
+        "double_slash_redirect": 0,
+        "has_hyphen": 1,
+        "sub_domains": 2,
+        "https": 0,
+        "domain_age": 0,
+        "ssl_valid": 0,
+        "ssl_expiry_days": -1,
+        "is_subdomain": 0,
+        "tld_in_domain": 1,
+        "url_entropy": 4.322179345516666,
+        "num_digits": 0,
+        "num_parameters": 0,
+        "path_length": 7
+      },
+      "title": "",
+      "final_verdict": "phishing"
+    }
+  }
+]
