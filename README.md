@@ -35,8 +35,11 @@ The app is built with:
 ---
 
 ## 🧪 Setup & Run Instructions
-
-### 1. Clone the Repository
+###1 install requirements
+'''
+pip install -r requirements.txt
+'''
+### 2. Clone the Repository      
 
 ```bash
 git clone https://github.com/yourusername/threatguard.git
